@@ -1,0 +1,12 @@
+2014-09-26 11:50:36,539 INFO main tests.general.general: 
+
+Starting a new test suite run. Opened Browser- chrome
+
+2014-09-26 11:50:36,906 INFO main tests.general.general: Application under test is - https://didnvraina6:8001/G2
+2014-09-26 11:50:40,076 INFO main tests.general.general: Clearing Text present in the element located- By.name: userName
+2014-09-26 11:50:40,228 INFO main tests.general.general: Entering Text ideas_adm in the element located-By.name: userName
+2014-09-26 11:50:40,343 INFO main tests.general.general: Clearing Text present in the element located- By.name: password
+2014-09-26 11:50:40,393 INFO main tests.general.general: Entering Text shout-952 in the element located-By.name: password
+2014-09-26 11:50:40,492 INFO main tests.general.general: Clicking on the element located-By.linkText: Login
+2014-09-26 11:50:44,895 INFO main tests.general.general: Switching the active window to InnerFrame
+2014-09-26 11:50:44,995 INFO main tests.general.general: Closing the Alert Box InnerFrame window opened after login
